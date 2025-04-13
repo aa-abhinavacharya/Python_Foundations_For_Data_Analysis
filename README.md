@@ -1,4 +1,7 @@
-# Python_Foundations_For_Data_Analysis
+# Python Foundations For Data Analysis Project
+
+### Note :- All the files used for data preparation and analysis are present in the repository. Project is prepared with the help of the course in Udemy [Python for Data Analysis & Business Intelligence](https://www.udemy.com/course/python-foundations-for-data-analysis/?srsltid=AfmBOoqFQbRnqAMG_faRyXEQ44FaPWVXS8Zd31mF2-cbhDYglc-whdap&couponCode=NVDIN35) by Maven Analytics.
+
 ## Part 1 :- Data Preparation
 
 Task :- Data Preparation of Black Friday Sales Data (Missing Taxes and Totals)
