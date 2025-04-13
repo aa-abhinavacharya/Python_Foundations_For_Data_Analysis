@@ -17,3 +17,6 @@ Objectives :-
 
 7.Save changes to an Excel workbook.
 
+Python File with Questions for Analysis :- [Analysis_Questions](https://github.com/aa-abhinavacharya/Python_Foundations_For_Data_Analysis_Basic_Project/blob/main/maven_ski_shop_analysis.ipynb)
+
+Python File with Solutions for Analysis :- [Analysis_Solutions](https://github.com/aa-abhinavacharya/Python_Foundations_For_Data_Analysis_Basic_Project/blob/main/maven_ski_shop_analysis_solutions.ipynb)
